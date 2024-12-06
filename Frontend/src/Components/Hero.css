@@ -5,8 +5,9 @@
     align-items: center;
     justify-content: center;
     padding: 2rem;
-    /* background-color: #f9f9f9; */
+    margin-top: 30px;
     gap: 2rem;
+    margin-left: 50px;
 }
 
 /* For larger screens, display as two columns */
